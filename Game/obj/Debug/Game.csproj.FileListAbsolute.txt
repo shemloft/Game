@@ -1,0 +1,99 @@
+D:\Desktop\uwu\bin\Debug\Game.exe.config
+D:\Desktop\uwu\bin\Debug\Game.exe
+D:\Desktop\uwu\bin\Debug\Game.pdb
+D:\Desktop\uwu\bin\Debug\nunit.framework.dll
+D:\Desktop\uwu\bin\Debug\nunit.framework.pdb
+D:\Desktop\uwu\bin\Debug\nunit.framework.xml
+D:\Desktop\uwu\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\uwu\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Desktop\uwu\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\uwu\obj\Debug\Game.exe
+D:\Desktop\uwu\obj\Debug\Game.pdb
+C:\Users\neali_000\Desktop\haze\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\neali_000\Desktop\haze\obj\Debug\Game.exe
+C:\Users\neali_000\Desktop\haze\obj\Debug\Game.pdb
+C:\Users\neali_000\Desktop\haze\bin\Debug\Game.exe.config
+C:\Users\neali_000\Desktop\haze\bin\Debug\Game.exe
+C:\Users\neali_000\Desktop\haze\bin\Debug\Game.pdb
+C:\Users\neali_000\Desktop\haze\bin\Debug\nunit.framework.dll
+C:\Users\neali_000\Desktop\haze\bin\Debug\nunit.framework.pdb
+C:\Users\neali_000\Desktop\haze\bin\Debug\nunit.framework.xml
+C:\Users\neali_000\Desktop\haze\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\vGame\32 (И)\haze\bin\Debug\Game.exe.config
+D:\Desktop\vGame\32 (И)\haze\bin\Debug\Game.exe
+D:\Desktop\vGame\32 (И)\haze\bin\Debug\Game.pdb
+D:\Desktop\vGame\32 (И)\haze\bin\Debug\nunit.framework.dll
+D:\Desktop\vGame\32 (И)\haze\bin\Debug\nunit.framework.pdb
+D:\Desktop\vGame\32 (И)\haze\bin\Debug\nunit.framework.xml
+D:\Desktop\vGame\32 (И)\haze\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\vGame\32 (И)\haze\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Desktop\vGame\32 (И)\haze\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\vGame\32 (И)\haze\obj\Debug\Game.exe
+D:\Desktop\vGame\32 (И)\haze\obj\Debug\Game.pdb
+C:\Users\neali_000\Desktop\haze\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\vGame\34 (И)\haze\bin\Debug\Game.exe.config
+D:\Desktop\vGame\34 (И)\haze\bin\Debug\Game.exe
+D:\Desktop\vGame\34 (И)\haze\bin\Debug\Game.pdb
+D:\Desktop\vGame\34 (И)\haze\bin\Debug\nunit.framework.dll
+D:\Desktop\vGame\34 (И)\haze\bin\Debug\nunit.framework.pdb
+D:\Desktop\vGame\34 (И)\haze\bin\Debug\nunit.framework.xml
+D:\Desktop\vGame\34 (И)\haze\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\vGame\34 (И)\haze\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Desktop\vGame\34 (И)\haze\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\vGame\34 (И)\haze\obj\Debug\Game.exe
+D:\Desktop\vGame\34 (И)\haze\obj\Debug\Game.pdb
+D:\Desktop\haze\bin\Debug\Game.exe.config
+D:\Desktop\haze\bin\Debug\Game.exe
+D:\Desktop\haze\bin\Debug\Game.pdb
+D:\Desktop\haze\bin\Debug\nunit.framework.dll
+D:\Desktop\haze\bin\Debug\nunit.framework.pdb
+D:\Desktop\haze\bin\Debug\nunit.framework.xml
+D:\Desktop\haze\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\haze\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Desktop\haze\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\haze\obj\Debug\Game.exe
+D:\Desktop\haze\obj\Debug\Game.pdb
+C:\Users\neali_000\Desktop\yu\bin\Debug\Game.exe.config
+C:\Users\neali_000\Desktop\yu\bin\Debug\Game.exe
+C:\Users\neali_000\Desktop\yu\bin\Debug\Game.pdb
+C:\Users\neali_000\Desktop\yu\bin\Debug\nunit.framework.dll
+C:\Users\neali_000\Desktop\yu\bin\Debug\nunit.framework.pdb
+C:\Users\neali_000\Desktop\yu\bin\Debug\nunit.framework.xml
+C:\Users\neali_000\Desktop\yu\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\neali_000\Desktop\yu\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\neali_000\Desktop\yu\obj\Debug\Game.csproj.CopyComplete
+C:\Users\neali_000\Desktop\yu\obj\Debug\Game.exe
+C:\Users\neali_000\Desktop\yu\obj\Debug\Game.pdb
+D:\Desktop\vGame\38 (И)\yu\bin\Debug\Game.exe.config
+D:\Desktop\vGame\38 (И)\yu\bin\Debug\Game.exe
+D:\Desktop\vGame\38 (И)\yu\bin\Debug\Game.pdb
+D:\Desktop\vGame\38 (И)\yu\bin\Debug\nunit.framework.dll
+D:\Desktop\vGame\38 (И)\yu\bin\Debug\nunit.framework.pdb
+D:\Desktop\vGame\38 (И)\yu\bin\Debug\nunit.framework.xml
+D:\Desktop\vGame\38 (И)\yu\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\vGame\38 (И)\yu\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Desktop\vGame\38 (И)\yu\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\vGame\38 (И)\yu\obj\Debug\Game.exe
+D:\Desktop\vGame\38 (И)\yu\obj\Debug\Game.pdb
+D:\Desktop\yu\bin\Debug\Game.exe.config
+D:\Desktop\yu\bin\Debug\Game.exe
+D:\Desktop\yu\bin\Debug\Game.pdb
+D:\Desktop\yu\bin\Debug\nunit.framework.dll
+D:\Desktop\yu\bin\Debug\nunit.framework.pdb
+D:\Desktop\yu\bin\Debug\nunit.framework.xml
+D:\Desktop\yu\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\yu\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Desktop\yu\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\yu\obj\Debug\Game.exe
+D:\Desktop\yu\obj\Debug\Game.pdb
+D:\Desktop\vGame\39\Game\bin\Debug\Game.exe.config
+D:\Desktop\vGame\39\Game\bin\Debug\Game.exe
+D:\Desktop\vGame\39\Game\bin\Debug\Game.pdb
+D:\Desktop\vGame\39\Game\bin\Debug\nunit.framework.dll
+D:\Desktop\vGame\39\Game\bin\Debug\nunit.framework.pdb
+D:\Desktop\vGame\39\Game\bin\Debug\nunit.framework.xml
+D:\Desktop\vGame\39\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Desktop\vGame\39\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Desktop\vGame\39\Game\obj\Debug\Game.csproj.CopyComplete
+D:\Desktop\vGame\39\Game\obj\Debug\Game.exe
+D:\Desktop\vGame\39\Game\obj\Debug\Game.pdb
